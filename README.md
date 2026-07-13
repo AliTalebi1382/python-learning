@@ -1,2 +1,8 @@
-# python-learning
-Python practice and projects
+# Python Learning
+
+My Python learning journey.
+
+## Day 01
+- Variables
+- Input
+- Simple Calculator
