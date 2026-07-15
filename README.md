@@ -6,3 +6,7 @@ My Python learning journey.
 - Variables
 - Input
 - Simple Calculator
+## Day 02
+- If / Else
+- Even or Odd
+- Grade Checker
