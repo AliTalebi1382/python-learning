@@ -10,3 +10,8 @@ My Python learning journey.
 - If / Else
 - Even or Odd
 - Grade Checker
+## Day 03
+- For Loop
+- While Loop
+- Multiplication Table
+- Sum Numbers
