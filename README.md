@@ -15,3 +15,8 @@ My Python learning journey.
 - While Loop
 - Multiplication Table
 - Sum Numbers
+## Day 04
+- Lists
+- List Methods
+- Shopping List
+- Max & Min
