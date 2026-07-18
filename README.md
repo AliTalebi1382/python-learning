@@ -20,3 +20,8 @@ My Python learning journey.
 - List Methods
 - Shopping List
 - Max & Min
+## Day 05
+- Functions
+- Parameters
+- Return Values
+- Calculator with Functions
