@@ -25,3 +25,8 @@ My Python learning journey.
 - Parameters
 - Return Values
 - Calculator with Functions
+## Day 06
+- Strings
+- String Indexing
+- String Methods
+- Palindrome Checker
