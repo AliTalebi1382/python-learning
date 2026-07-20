@@ -30,3 +30,8 @@ My Python learning journey.
 - String Indexing
 - String Methods
 - Palindrome Checker
+## Day 07
+- Dictionary
+- Dictionary Update
+- Tuple
+- Student Information
