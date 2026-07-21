@@ -35,3 +35,8 @@ My Python learning journey.
 - Dictionary Update
 - Tuple
 - Student Information
+## Day 08
+- Set
+- Set Operations
+- File Writing
+- File Reading
