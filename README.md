@@ -40,3 +40,8 @@ My Python learning journey.
 - Set Operations
 - File Writing
 - File Reading
+## Day 09
+- Try / Except
+- ZeroDivisionError
+- ValueError
+- Calculator with Exception Handling
