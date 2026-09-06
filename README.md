@@ -45,3 +45,8 @@ My Python learning journey.
 - ZeroDivisionError
 - ValueError
 - Calculator with Exception Handling
+## Day 10
+- Modules & Packages
+- Standard Modules (math, random, datetime)
+- Custom Module
+- Using Custom Module in Another File
