@@ -50,3 +50,9 @@ My Python learning journey.
 - Standard Modules (math, random, datetime)
 - Custom Module
 - Using Custom Module in Another File
+## Day 11
+- Object-Oriented Basics
+- Class Definition (class)
+- __init__ and self
+- Methods
+- Project: BankAccount (deposit, withdraw, balance check)
