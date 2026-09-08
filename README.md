@@ -56,3 +56,8 @@ My Python learning journey.
 - __init__ and self
 - Methods
 - Project: BankAccount (deposit, withdraw, balance check)
+## Day 12
+- Inheritance (وراثت)
+- Parent Class & Child Class
+- Polymorphism (چندریختی)
+- Method Overriding
