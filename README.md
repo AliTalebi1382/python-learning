@@ -61,3 +61,8 @@ My Python learning journey.
 - Parent Class & Child Class
 - Polymorphism (چندریختی)
 - Method Overriding
+## Day 13
+- List Comprehension
+- Dict Comprehension
+-Lambda Functions
+- map, filter, sorted with key
