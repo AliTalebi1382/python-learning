@@ -66,3 +66,8 @@ My Python learning journey.
 - Dict Comprehension
 -Lambda Functions
 - map, filter, sorted with key
+## Day 14
+- Working with JSON
+- json.dumps / json.dump (Save data)
+- json.load (Read data)
+- Project: To-Do List with permanent storage (JSON file)
