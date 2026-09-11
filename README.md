@@ -78,3 +78,10 @@ My Python learning journey.
 - Indexing & Slicing
 - Statistical Functions (sum, mean, max, min, std)
 - Boolean Filtering on Arrays
+## Day 16
+- Advanced NumPy Operations
+- Matrix Addition & Element-wise Multiplication
+- Dot Product (Matrix Multiplication)
+- Transpose
+- Reshape Arrays
+- Project: Grade Analysis (mean per subject/student, argmax, conditional counting)
