@@ -71,3 +71,10 @@ My Python learning journey.
 - json.dumps / json.dump (Save data)
 - json.load (Read data)
 - Project: To-Do List with permanent storage (JSON file)
+## Day 15
+- Introduction to NumPy
+- Creating Arrays (1D & 2D)
+- Array Operations (math on whole array)
+- Indexing & Slicing
+- Statistical Functions (sum, mean, max, min, std)
+- Boolean Filtering on Arrays
