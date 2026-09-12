@@ -85,3 +85,10 @@ My Python learning journey.
 - Transpose
 - Reshape Arrays
 - Project: Grade Analysis (mean per subject/student, argmax, conditional counting)
+## Day 17
+- Introduction to Pandas
+- Series & DataFrame
+-  df.info() & df.describe()
+- Selecting Columns
+- Reading & Writing CSV Files
+- Sorting Data (sort_values)
