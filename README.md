@@ -92,3 +92,10 @@ My Python learning journey.
 - Selecting Columns
 - Reading & Writing CSV Files
 - Sorting Data (sort_values)
+## Day 18
+- Data Cleaning
+- Handling Missing Values (isnull, dropna, fillna)
+- Removing Duplicates (duplicated, drop_duplicates)
+- Filtering Data with Conditions
+- Grouping Data (groupby)
+- Aggregate Functions (mean, max, min, count)
