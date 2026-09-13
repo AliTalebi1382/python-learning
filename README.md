@@ -99,3 +99,8 @@ My Python learning journey.
 - Filtering Data with Conditions
 - Grouping Data (groupby)
 - Aggregate Functions (mean, max, min, count)
+## Day 19
+- Introduction to Matplotlib
+- Line Chart, Bar Chart, Pie Chart
+- Project: Visualizing Student Scores from DataFrame
+- Fixed Persian/RTL Text Rendering in Charts (arabic-reshaper, python-bidi)
