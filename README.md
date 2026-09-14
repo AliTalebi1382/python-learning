@@ -104,3 +104,9 @@ My Python learning journey.
 - Line Chart, Bar Chart, Pie Chart
 - Project: Visualizing Student Scores from DataFrame
 - Fixed Persian/RTL Text Rendering in Charts (arabic-reshaper, python-bidi)
+## Day 20
+- Introduction to Machine Learning
+- Train/Test Split
+- First ML Model: Linear Regression
+- Model Evaluation (Mean Squared Error, R² Score)
+- Predicting New Values
