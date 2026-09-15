@@ -110,3 +110,8 @@ My Python learning journey.
 - First ML Model: Linear Regression
 - Model Evaluation (Mean Squared Error, R² Score)
 - Predicting New Values
+## Day 21
+- Visualizing Regression Line (scatter + prediction line)
+- Multiple Linear Regression (multiple input features)
+- Project: Predicting House Price based on Area & Rooms
+- Model Coefficients and Intercept Interpretation
