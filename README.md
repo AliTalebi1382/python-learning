@@ -115,3 +115,9 @@ My Python learning journey.
 - Multiple Linear Regression (multiple input features)
 - Project: Predicting House Price based on Area & Rooms
 - Model Coefficients and Intercept Interpretation
+## Day 22
+- Introduction to Classification
+- Logistic Regression
+- Accuracy Score & Confusion Matrix
+- Classification Report (precision, recall, f1-score)
+- Project: Predicting Customer Purchase based on Age & Income
