@@ -121,3 +121,9 @@ My Python learning journey.
 - Accuracy Score & Confusion Matrix
 - Classification Report (precision, recall, f1-score)
 - Project: Predicting Customer Purchase based on Age & Income
+## Day 23
+- Decision Tree Classifier
+- Feature Importance
+- KNN (K-Nearest Neighbors) Classifier
+- Comparing Multiple Models (KNN, Decision Tree, Logistic Regression)
+- Selecting the Best Model based on Accuracy
