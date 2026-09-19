@@ -127,3 +127,8 @@ My Python learning journey.
 - KNN (K-Nearest Neighbors) Classifier
 - Comparing Multiple Models (KNN, Decision Tree, Logistic Regression)
 - Selecting the Best Model based on Accuracy
+## Day 24
+- Cross-Validation (cross_val_score)
+- Comparing Model Stability across Multiple Splits
+- Hyperparameter Tuning with GridSearchCV
+- Finding Best Parameters Automatically
